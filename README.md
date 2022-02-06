@@ -17,11 +17,11 @@
 - [Questions](#questions)
 
 ## Installation
-💾 1. Ensure you have Node.js installed on your device: https://nodejs.org/en/download/  NOTE: If you are using VSCode, I highly         recommend installing the following extensions: Node.js Extension Pack ( https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack ) & Node.js Modules Intellisense ( https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense )<br />
+💾 1. Ensure you have Node.js installed on your device: https://nodejs.org/en/download/  NOTE: If you are using VSCode, I highly recommend installing the following extensions: Node.js Extension Pack ( https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack ) & Node.js Modules Intellisense ( https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense )<br />
   
    2. Download README-Ready from Github: https://github.com/Andy-Waine/README-Ready<br />
    2. Open the Integrated Terminal on index.js<br />
-   3. Type and enter the following commands (without comma separators): npm init, npm install inquirer, node index <br>
+   3. Type and enter the following commands (without comma separators): npm init (follow on-screen instructions to initialize package.JSON), npm install inquirer, node index <br>
    4. Follow the on-screens prompts<br />
    5. Enter dist folder to find your custom README<br />
  
