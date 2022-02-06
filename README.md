@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
 
 ## Description
-🔍 Starting a new project? Use README-Ready, a Node.js application that creates a custom README generated in HTML to be copy and pasted right into your code.
+🔍 Starting a new project? Use README-Ready, a Node.js application that generates a custom README to copy and past right into your code or the project's repository.
 
 
 ## Table of Contents
