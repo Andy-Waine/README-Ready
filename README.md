@@ -21,7 +21,7 @@
    2. Download README-Ready from Github: https://github.com/Andy-Waine/README-Ready<br />
    2. Open the Integrated Terminal on index.js<br />
    3. Type and enter the following commands:<br />
-          <p style="text-indent: 40 px">npm init</span></p><br />
+          <span> style="margin-left: 40 px">npm init</span></p><br />
           npm install inquirer<br />
           node index<br />
    4. Follow the on-screens prompts<br />
