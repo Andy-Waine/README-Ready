@@ -1,10 +1,10 @@
 
-<h1 align="center">Blah 👋</h1>
+<h1 align="center">PITIA BREAD 👋</h1>
   
-![badge](https://img.shields.io/badge/license-undefined-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
-🔍 Blah
+🔍 A JavaScript-based Mortgage Calculator embedded within a sleek UI for easy adoption within  a larger framework.
 
 ## Table of Contents
 - [Description](#description)
@@ -16,27 +16,27 @@
 - [Questions](#questions)
 
 ## Installation
-💾 Blah
+💾 
 
 ## Usage
 💻 
 
 ## License
-![badge](https://img.shields.io/badge/license-undefined-brightgreen)
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
-This application is covered by the undefined license. 
+This application is covered by the MIT license. 
 
 ## Contributing
-👪 undefined
+👪 Andy Waine
 
 ## Tests
-✏️ undefined
+✏️ 
 
 ## Questions
-✋ undefined<br />
+✋ <br />
 <br />
-:octocat: Find me on GitHub: [undefined](https://github.com/undefined)<br />
+:octocat: Find me on GitHub: [Andy-Waine](https://github.com/Andy-Waine)<br />
 <br />
-✉️ Email me with any questions: undefined<br /><br />
+✉️ Email me with any questions: waine.andrew@protonmail.com<br /><br />
 
     
