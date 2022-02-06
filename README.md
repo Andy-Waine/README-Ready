@@ -21,7 +21,7 @@
   
    2. Download README-Ready from Github: https://github.com/Andy-Waine/README-Ready<br />
    2. Open the Integrated Terminal on index.js<br />
-   3. Type and enter the following commands (without comma separators): npm init (follow on-screen instructions to initialize package.JSON, npm install inquirer, node index <br>
+   3. Type and enter the following commands (without comma separators): npm init (follow on-screen instructions to initialize package.JSON), npm install inquirer, node index <br>
    4. Follow the on-screens prompts<br />
    5. Enter dist folder to find your custom README<br />
  
