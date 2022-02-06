@@ -20,10 +20,7 @@
 💾 1. Ensure you have Node.js installed on your device: https://nodejs.org/en/download/<br />
    2. Download README-Ready from Github: https://github.com/Andy-Waine/README-Ready<br />
    2. Open the Integrated Terminal on index.js<br />
-   3. Type and enter the following commands:<br />
-          <span style="margin-left: 40 px">npm init</span><br />
-          npm install inquirer<br />
-          node index<br />
+   3. Type and enter the following commands (without comma separators): npm init, npm install inquirer, node index <br>
    4. Follow the on-screens prompts<br />
    5. Enter dist folder to find your custom README<br />
  
