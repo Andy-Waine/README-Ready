@@ -17,14 +17,14 @@
 - [Questions](#questions)
 
 ## Installation
-💾 1. Ensure you have Node.js installed on your device: https://nodejs.org/en/download/
-   2. Download README-Ready from Github: https://github.com/Andy-Waine/README-Ready
-   2. Open the Integrated Terminal on index.js
-   3. Type and enter the following commands:
-          npm init
-          npm install inquirer
-          node index
-   4. Follow the on-screens prompts
+💾 1. Ensure you have Node.js installed on your device: https://nodejs.org/en/download/<br />
+   2. Download README-Ready from Github: https://github.com/Andy-Waine/README-Ready<br />
+   2. Open the Integrated Terminal on index.js<br />
+   3. Type and enter the following commands:<br />
+          npm init<br />
+          npm install inquirer<br />
+          node index<br />
+   4. Follow the on-screens prompts<br />
  
 ## Usage
 Demonstration Video: https://watch.screencastify.com/v/phujhJs47snqsflCNv0W
