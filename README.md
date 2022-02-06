@@ -1,11 +1,10 @@
 
-<h1 align="center">ReadME Generator</h1>
+<h1 align="center">✅📝🖥️ ReadME-Ready 🖥️📝✅</h1>
   
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
 
 ## Description
-🔍 An app built using Node.js that allows you to easily create a custom ReadME for your project.
-
+🔍 Starting a new project? Use README-Ready, a Node.js application that creates a custom README generated in HTML to be copy and pasted right into your code.
 
 
 ## Table of Contents
@@ -18,8 +17,15 @@
 - [Questions](#questions)
 
 ## Installation
-💾 Enter the following in the integrated terminal: npm init, npm install inquirer, node index
-
+💾 1. Ensure you have Node.js installed on your device: https://nodejs.org/en/download/
+   2. Download README-Ready from Github: https://github.com/Andy-Waine/README-Ready
+   2. Open the Integrated Terminal on index.js
+   3. Type and enter the following commands:
+          npm init
+          npm install inquirer
+          node index
+   4. Follow the on-screens prompts
+ 
 ## Usage
 Demonstration Video: https://watch.screencastify.com/v/phujhJs47snqsflCNv0W
 
@@ -31,12 +37,7 @@ This application is covered by the Open license.
 ## Contributing
 👪 Andy Waine
 
-## Tests
-✏️ No
-
 ## Questions
-✋ See E-mail Below<br />
-<br />
 :octocat: Find me on GitHub: [Andy-Waine](https://github.com/Andy-Waine)<br />
 <br />
 ✉️ Email me with any questions: waine.andrew@protonmail.com<br /><br />
