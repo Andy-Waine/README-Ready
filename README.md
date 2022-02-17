@@ -6,7 +6,7 @@
 ## Description
 🔍 Starting a new project? Use README-Ready, a Node.js application that generates a custom README to copy and past right into your code or the project's repository.
 
-<h4 style="text-align: center">👉 Demonstration Video: https://watch.screencastify.com/v/phujhJs47snqsflCNv0W 👈<h4>
+<h4 align=center>👉 Demonstration Video: https://watch.screencastify.com/v/phujhJs47snqsflCNv0W 👈<h4>
 
 
 ## Table of Contents
